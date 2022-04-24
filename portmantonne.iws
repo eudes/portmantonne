@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Try /docs?">
+    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Update parcel">
+      <change afterPath="$PROJECT_DIR$/js/vendor/pronounceable-data/dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/pronounceable-data/triples.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/pronounceable-data/tuples.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/pronounceable.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/icon.83aa3da3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib.5d64c706.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib.5d64c706.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/main.c52e0fe2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/main.c52e0fe2.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/main.c52e0fe2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/main.c52e0fe2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/main.fb6bbcaf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/main.fb6bbcaf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/modernizr-3.11.2.min.659b9f56.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/modernizr-3.11.2.min.659b9f56.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/normalize.1114379f.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/normalize.1114379f.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/normalize.1114379f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/normalize.1114379f.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plugins.7f97feee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plugins.7f97feee.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portmantonne.iws" beforeDir="false" afterPath="$PROJECT_DIR$/portmantonne.iws" afterDir="false" />
@@ -47,6 +33,7 @@
     </file-type-list>
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -78,7 +65,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="28DgbomAMXLtqGVmFy1Wo2h8zHQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -105,7 +94,7 @@
       <recent name="$PROJECT_DIR$/doc" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="lib.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -199,7 +188,8 @@
       <updated>1650756645211</updated>
       <workItem from="1650756647112" duration="2630000" />
       <workItem from="1650759716983" duration="2887000" />
-      <workItem from="1650762847869" duration="4113000" />
+      <workItem from="1650762847869" duration="4470000" />
+      <workItem from="1650806997967" duration="4432000" />
     </task>
     <task id="LOCAL-00001" summary="Implementation">
       <created>1650767508774</created>
@@ -229,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650768024487</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update parcel">
+      <created>1650769071304</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650769071304</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update parcel">
+      <created>1650769117069</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650769117069</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +249,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -253,6 +258,7 @@
     <MESSAGE value="Add dist" />
     <MESSAGE value="Try /doc?" />
     <MESSAGE value="Try /docs?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try /docs?" />
+    <MESSAGE value="Update parcel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update parcel" />
   </component>
 </project>

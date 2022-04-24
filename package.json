@@ -15,6 +15,9 @@
     "start": "npm run build && npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "@eudes/pronounceable": "^2.0.2"
+  },
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.5.0",
     "@parcel/transformer-webmanifest": "^2.5.0",
