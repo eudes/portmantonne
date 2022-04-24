@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Sort results by pronounceability">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Add pre-commit hook">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portmantonne.iws" beforeDir="false" afterPath="$PROJECT_DIR$/portmantonne.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +184,8 @@
       <workItem from="1650756647112" duration="2630000" />
       <workItem from="1650759716983" duration="2887000" />
       <workItem from="1650762847869" duration="4470000" />
-      <workItem from="1650806997967" duration="5593000" />
+      <workItem from="1650806997967" duration="5752000" />
+      <workItem from="1650831180675" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary="Implementation">
       <created>1650767508774</created>
@@ -236,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650824868006</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add byline, colors">
+      <created>1650831089660</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650831089660</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add pre-commit hook">
+      <created>1650831554826</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650831554826</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +277,8 @@
     <MESSAGE value="Try /docs?" />
     <MESSAGE value="Update parcel" />
     <MESSAGE value="Sort results by pronounceability" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort results by pronounceability" />
+    <MESSAGE value="Add byline, colors" />
+    <MESSAGE value="Add pre-commit hook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pre-commit hook" />
   </component>
 </project>

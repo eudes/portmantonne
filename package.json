@@ -10,6 +10,7 @@
   "license": "",
   "author": "",
   "scripts": {
+    "prepare": "husky install",
     "build": "parcel build --public-url ./ --dist-dir docs index.html",
     "dev": "parcel index.html --open",
     "start": "npm run build && npm run dev",
@@ -22,6 +23,7 @@
     "@parcel/packager-raw-url": "^2.5.0",
     "@parcel/transformer-webmanifest": "^2.5.0",
     "jest": "^27.5.1",
-    "parcel": "^2.5.0"
+    "parcel": "^2.5.0",
+    "husky": "^7.0.4"
   }
 }
