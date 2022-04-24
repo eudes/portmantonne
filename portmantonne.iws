@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Update parcel">
-      <change afterPath="$PROJECT_DIR$/js/vendor/pronounceable-data/dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/pronounceable-data/triples.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/pronounceable-data/tuples.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/pronounceable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Sort results by pronounceability">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portmantonne.iws" beforeDir="false" afterPath="$PROJECT_DIR$/portmantonne.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +17,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -66,6 +61,7 @@
   </component>
   <component name="ProjectId" id="28DgbomAMXLtqGVmFy1Wo2h8zHQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -189,7 +185,7 @@
       <workItem from="1650756647112" duration="2630000" />
       <workItem from="1650759716983" duration="2887000" />
       <workItem from="1650762847869" duration="4470000" />
-      <workItem from="1650806997967" duration="4432000" />
+      <workItem from="1650806997967" duration="5593000" />
     </task>
     <task id="LOCAL-00001" summary="Implementation">
       <created>1650767508774</created>
@@ -233,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650769117069</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Sort results by pronounceability">
+      <created>1650824868006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650824868006</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +262,7 @@
     <MESSAGE value="Try /doc?" />
     <MESSAGE value="Try /docs?" />
     <MESSAGE value="Update parcel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update parcel" />
+    <MESSAGE value="Sort results by pronounceability" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort results by pronounceability" />
   </component>
 </project>
