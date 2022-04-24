@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Implementation" />
+    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Add dist">
+      <change beforePath="$PROJECT_DIR$/dist/icon.83aa3da3.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/icon.83aa3da3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/lib.5d64c706.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/lib.5d64c706.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/lib.5d64c706.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/lib.5d64c706.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.c52e0fe2.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.c52e0fe2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.c52e0fe2.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.c52e0fe2.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.c52e0fe2.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.c52e0fe2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.c52e0fe2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.c52e0fe2.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.fb6bbcaf.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.fb6bbcaf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.fb6bbcaf.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.fb6bbcaf.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/modernizr-3.11.2.min.659b9f56.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/modernizr-3.11.2.min.659b9f56.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/modernizr-3.11.2.min.659b9f56.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/modernizr-3.11.2.min.659b9f56.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/normalize.1114379f.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/normalize.1114379f.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/normalize.1114379f.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/normalize.1114379f.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/normalize.1114379f.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/normalize.1114379f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/normalize.1114379f.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/normalize.1114379f.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/plugins.7f97feee.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/plugins.7f97feee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/plugins.7f97feee.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/plugins.7f97feee.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/doc/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +48,31 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1650767556" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1650767555" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="3m60z5j2" />
@@ -148,7 +201,7 @@
       <updated>1650756645211</updated>
       <workItem from="1650756647112" duration="2630000" />
       <workItem from="1650759716983" duration="2887000" />
-      <workItem from="1650762847869" duration="2574000" />
+      <workItem from="1650762847869" duration="3005000" />
     </task>
     <task id="LOCAL-00001" summary="Implementation">
       <created>1650767508774</created>
@@ -157,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650767508774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add dist">
+      <created>1650767630860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650767630860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +238,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementation" />
+    <MESSAGE value="Add dist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dist" />
   </component>
 </project>
