@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Add dist">
-      <change beforePath="$PROJECT_DIR$/dist/icon.83aa3da3.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/icon.83aa3da3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lib.5d64c706.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/lib.5d64c706.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lib.5d64c706.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/lib.5d64c706.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.c52e0fe2.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.c52e0fe2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.c52e0fe2.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.c52e0fe2.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.c52e0fe2.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.c52e0fe2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.c52e0fe2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.c52e0fe2.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.fb6bbcaf.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.fb6bbcaf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.fb6bbcaf.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main.fb6bbcaf.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/modernizr-3.11.2.min.659b9f56.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/modernizr-3.11.2.min.659b9f56.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/modernizr-3.11.2.min.659b9f56.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/modernizr-3.11.2.min.659b9f56.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/normalize.1114379f.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/normalize.1114379f.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/normalize.1114379f.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/normalize.1114379f.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/normalize.1114379f.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/normalize.1114379f.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/normalize.1114379f.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/normalize.1114379f.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/plugins.7f97feee.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/plugins.7f97feee.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/plugins.7f97feee.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/plugins.7f97feee.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/doc/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" />
+    <list default="true" id="2e1d071c-2140-45eb-b806-18c31de93c64" name="Changes" comment="Try /docs?">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/icon.83aa3da3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib.5d64c706.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib.5d64c706.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/main.c52e0fe2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/main.c52e0fe2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/main.c52e0fe2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/main.c52e0fe2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/main.fb6bbcaf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/main.fb6bbcaf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/modernizr-3.11.2.min.659b9f56.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/modernizr-3.11.2.min.659b9f56.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/normalize.1114379f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/normalize.1114379f.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/normalize.1114379f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/normalize.1114379f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins.7f97feee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins.7f97feee.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portmantonne.iws" beforeDir="false" afterPath="$PROJECT_DIR$/portmantonne.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +100,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
     <configuration name="lib.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -124,20 +126,6 @@
       <test-file value="$PROJECT_DIR$/js/lib.test.js" />
       <test-names>
         <test-name value="portmantonne" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="portmantonne.returns all possible portmanteaus of a set of words" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/js/lib.test.js" />
-      <test-names>
-        <test-name value="portmantonne" />
-        <test-name value="returns all possible portmanteaus of a set of words" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -171,6 +159,16 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -183,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="Jest.portmantonne.returns all possible portmanteaus of a set of.thfilminree words" />
         <item itemvalue="Jest.portmantonne.returns all possible portmanteaus of a set of.three words" />
         <item itemvalue="Jest.lib.test.js" />
         <item itemvalue="Jest.portmantonne" />
-        <item itemvalue="Jest.portmantonne.returns all possible portmanteaus of a set of words" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +199,7 @@
       <updated>1650756645211</updated>
       <workItem from="1650756647112" duration="2630000" />
       <workItem from="1650759716983" duration="2887000" />
-      <workItem from="1650762847869" duration="3005000" />
+      <workItem from="1650762847869" duration="4113000" />
     </task>
     <task id="LOCAL-00001" summary="Implementation">
       <created>1650767508774</created>
@@ -217,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650767630860</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Try /doc?">
+      <created>1650767961954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650767961954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Try /docs?">
+      <created>1650768024487</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650768024487</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +251,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Implementation" />
     <MESSAGE value="Add dist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add dist" />
+    <MESSAGE value="Try /doc?" />
+    <MESSAGE value="Try /docs?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try /docs?" />
   </component>
 </project>
